@@ -1,2 +1,2 @@
 # React_Practice
- practicing React with simple projects
+ practicing React with simple project
